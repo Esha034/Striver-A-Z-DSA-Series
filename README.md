@@ -1,7 +1,7 @@
 # 🚀 Striver A-Z DSA Sheet Solutions
 
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=social)
-![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Esha04/Striver-A-Z-DSA-Series?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Esha04/Striver-A-Z-DSA-Series?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME/REPOSITORY)
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 
