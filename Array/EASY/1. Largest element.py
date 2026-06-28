@@ -1,5 +1,4 @@
 # Approach 
-
 1. Assume the first element is the largest.
 2. Traverse the array from the second element.
 3. If the current element is greater than the largest,
