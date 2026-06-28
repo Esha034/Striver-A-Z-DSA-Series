@@ -1,8 +1,8 @@
 # 🚀 Striver A-Z DSA Sheet Solutions
 
-![GitHub stars](https://img.shields.io/github/stars/Esha04/Striver-A-Z-DSA-Series?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Esha04/Striver-A-Z-DSA-Series?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/Esha04/Striver-A-Z-DSA-Series)
+![GitHub stars](https://img.shields.io/github/stars/Esha034/Striver-A-Z-DSA-Series?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Esha034/Striver-A-Z-DSA-Series?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Esha034/Striver-A-Z-DSA-Series)
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 A complete collection of my solutions to the **Striver A-Z DSA Sheet**, implemented in **Python**.
