@@ -42,9 +42,7 @@ b.Fill the array based on count:
 #code
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
-
         count0 = count1 = count2 = 0
-
         for num in nums:
             if num == 0:
                 count0 += 1
