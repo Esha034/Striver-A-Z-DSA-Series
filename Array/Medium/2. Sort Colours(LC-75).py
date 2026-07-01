@@ -26,10 +26,10 @@ class Solution:
 
 #Complexity
 Time: O(n)
-Space: O(n) ❌ (extra arrays)
+Space: O(n) 
              
 
-2. Better Approach (Counting)
+2. Better Approach (Counting approach)
 # Idea
 Since the array contains only three values (0, 1, 2):
 
@@ -96,7 +96,7 @@ class Solution:
                 nums[m],nums[h]=nums[h],nums[m]
                 h-=1
 #Complexity
-Time: O(n) (single traversal)
+Time: O(n) 
 Space: O(1)
 
                 
